@@ -1,0 +1,23 @@
+#input {
+  width: 100%;
+  height: 100px;
+}
+#output {
+  width: 100%;
+  height: 300px;
+}
+.button-danger,
+.button-danger:focus,
+.button-danger:active {
+  color: #fff;
+  background-color: #c0392b;
+  border-color: #c0392b;
+}
+.button-danger:hover {
+  color: #fff;
+  background-color: #ad3327;
+  border-color: #ad3327;
+}
+.button.button-block {
+  width: 100%;
+}
